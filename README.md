@@ -14,3 +14,7 @@ Simulação de lançamento de um dado com números de 1 a 6.
 
 #### Contato
 Tiago - tnhhilario@gmail.com
+
+
+https://github.com/user-attachments/assets/8eb5c67a-b324-4b1a-a7fc-f12726bfc218
+
